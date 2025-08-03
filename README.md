@@ -52,8 +52,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luisguilherme1996&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luisguilherme1996&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisguilherme1996&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luisguilherme1996&theme=radical&column=7"/>
 </p>
 
 ---
