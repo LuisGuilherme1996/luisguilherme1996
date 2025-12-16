@@ -8,7 +8,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação** cursando o último semestre
-- 💼 Desenvolvedor **Full Stack Júnior** na **Cuca Fresca Informática**
+- 💼 Desenvolvedor **Full Stack** na **Cuca Fresca Informática**
 - 🚀 Apaixonado por tecnologia, programação e soluções inteligentes
 - 🧠 Sempre aprendendo novas stacks e aprimorando minhas habilidades
 
