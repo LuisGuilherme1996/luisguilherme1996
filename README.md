@@ -81,4 +81,4 @@
 
 ---
 
-<p align="center">Feito com ❤️ por Luis Guilherme Castro</p>
+<p align="center">Feito por Luis Guilherme Castro</p>
