@@ -7,8 +7,8 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação** cursando o último semestre
-- 💼 Desenvolvedor **Full Stack** na **Cuca Fresca Informática**
+- 🎓 Bacharel de Sistema de Informação
+- 💼 Desenvolvedor **Full Stack**
 - 🚀 Apaixonado por tecnologia, programação e soluções inteligentes
 - 🧠 Sempre aprendendo novas stacks e aprimorando minhas habilidades
 
@@ -39,7 +39,6 @@
 ### 🛢️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
 
 ### ☁️ Infraestrutura e DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black)
