@@ -46,26 +46,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisguilherme1996&theme=radical&column=7"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luisguilherme1996&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisguilherme1996&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📂 Projetos em destaque
-
-<!-- Adicione seus projetos principais com uma breve descrição -->
-- 📈 [**Google-Analytics**](https://github.com/luisguilherme1996/google-analytics ) – Um software que monitora métricas de campanhas e anúncios do ads e se o site está rendendo no AD SENSE
-- 🧠 [**Queezy**](https://github.com/A-Serious-Group/quiz-api) – O primeiro projeto que desenvolvemos na faculdade, aonde cuidei da parte do back-end, ficou muito legal a primeira versão do Queezy, claro que tem muitas melhorias a fazer e implementações de testes e entre outras coisas, que uma próxima versão vai ter...
 
 ---
 
