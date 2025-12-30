@@ -1,8 +1,8 @@
-<div align="center">
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/378db3b6-489b-4ba8-95f8-b14247501674" /><div align="center">
 
-# 👋 Olá! Eu sou Luis Guilherme Castro
+# 👋 Opa, tudo certo? Me chamo Luis Guilherme, fique à vontade e espero que goste do meu perfil!
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Bacharel+em+Sistema+de+Informação;Apaixonado+por+Tecnologia;Sempre+Buscando+Evolução!" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Bacharel+em+Sistema+de+Informação;Apaixonado+por+Tecnologia!" />
 
 </div>
 
