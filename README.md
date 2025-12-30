@@ -28,7 +28,7 @@
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-000000?style=flat&logo=drizzle)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
