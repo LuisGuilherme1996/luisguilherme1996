@@ -1,4 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/378db3b6-489b-4ba8-95f8-b14247501674" /><div align="center">
 
 # 👋 Opa, tudo certo? Me chamo Luis Guilherme, fique à vontade e espero que goste do meu perfil!
 
