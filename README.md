@@ -20,10 +20,10 @@
 const luisGuilherme = {
     cargo: "Desenvolvedor Full Stack",
     formacao: "Bacharel em Sistema de Informação",
-    localizacao: "Brasil 🇧🇷",
-    interesses: ["Clean Code", "Arquitetura de Software", "DevOps", "Novas Tecnologias"],
-    objetivo: "Criar soluções escaláveis e impactantes",
-    hobbies: ["Programação", "Aprender novas stacks", "Resolver problemas complexos"]
+    localizacao: "Marília, SP ",
+    interesses: ["Backend", "Full Stack"],
+    objetivo: " Evoluir constantemente, busco criar soluções escaláveis otimizando performance e reduzindo custos, sempre aprendendo e aplicando as melhores práticas",,
+    hobbies: ["Estudar novas tecnologias", "games", "Passear com a família"]
 };
 ```
 
@@ -88,34 +88,6 @@ const luisGuilherme = {
 
 <br/>
 
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisguilherme&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisguilherme&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-## 💡 Projetos em Destaque
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luisguilherme&repo=easy-pay-backend&theme=tokyonight)](https://github.com/luisguilherme/easy-pay-backend)
-
-</div>
-
-> 💡 **Dica**: Substitua "easy-pay-backend" pelos nomes reais dos seus repositórios públicos que deseja destacar!
-
-<br/>
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -132,7 +104,7 @@ const luisGuilherme = {
 
 <div align="center">
 
-> *"A única maneira de fazer um ótimo trabalho é amar o que você faz."* - Steve Jobs
+> *"Da preparação, surge a oportunidade"* - Cristiano Ronaldo
 
 </div>
 
