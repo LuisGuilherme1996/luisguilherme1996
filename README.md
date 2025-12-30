@@ -1,63 +1,151 @@
-<h1 align="center">👋 Olá, eu sou o Luis Guilherme!</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=16C79A&size=22&center=true&vCenter=true&lines=Desenvolvedor+Full+Stack;Amante+de+tecnologia;Focado+em+resultados" />
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Bacharel de Sistema de Informação
-- 💼 Desenvolvedor **Full Stack**
-- 🚀 Apaixonado por tecnologia, programação e soluções inteligentes
-- 🧠 Sempre aprendendo novas stacks e aprimorando minhas habilidades
-
----
-
-## 🚀 Tecnologias que utilizo
-
-### 👨‍💻 Linguagens
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![Drizzle](https://img.shields.io/badge/-Drizzle-000000?style=flat&logo=drizzle)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
-### 🌐 Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-
-### 🛢️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=black)
-
-### ☁️ Infraestrutura e DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
----
-
-## 📫 Onde me encontrar
-
 <div align="center">
-  <a href="https://linkedin.com/in/luis-guilherme-castro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:guih.castro96@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/luisguilherme1996/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <!-- Adicione outras redes se quiser -->
+
+# 👋 Olá! Eu sou Luis Guilherme Castro
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Bacharel+em+Sistema+de+Informação;Apaixonado+por+Tecnologia;Sempre+Buscando+Evolução!" />
+
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luisguilherme&color=00D9FF&style=for-the-badge&label=VISITANTES" alt="Contador de visitas" />
+</div>
+
+<br/>
+
+## 🚀 Sobre Mim
+
+```typescript
+const luisGuilherme = {
+    cargo: "Desenvolvedor Full Stack",
+    formacao: "Bacharel em Sistema de Informação",
+    localizacao: "Brasil 🇧🇷",
+    interesses: ["Clean Code", "Arquitetura de Software", "DevOps", "Novas Tecnologias"],
+    objetivo: "Criar soluções escaláveis e impactantes",
+    hobbies: ["Programação", "Aprender novas stacks", "Resolver problemas complexos"]
+};
+```
+
+<br/>
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+
+### 💻 Linguagens de Programação
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+
+### 🎨 Frontend & UI
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Banco de Dados & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+### 📡 Mensageria & Comunicação
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisguilherme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisguilherme&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisguilherme&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luisguilherme&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisguilherme&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+## 💡 Projetos em Destaque
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luisguilherme&repo=easy-pay-backend&theme=tokyonight)](https://github.com/luisguilherme/easy-pay-backend)
+
+</div>
+
+> 💡 **Dica**: Substitua "easy-pay-backend" pelos nomes reais dos seus repositórios públicos que deseja destacar!
+
+<br/>
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-guilherme-castro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guih.castro96@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisguilherme1996/)
+
+</div>
+
+<br/>
+
+## 💬 Citação Favorita
+
+<div align="center">
+
+> *"A única maneira de fazer um ótimo trabalho é amar o que você faz."* - Steve Jobs
+
+</div>
+
+<br/>
+
 ---
 
-<p align="center">Feito por Luis Guilherme Castro</p>
+<div align="center">
+  
+### ⭐️ Se você gostou dos meus projetos, considere deixar uma estrela!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+**Desenvolvido com 💙 por Luis Guilherme Castro**
+
+</div>
