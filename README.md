@@ -21,7 +21,7 @@ const luisGuilherme = {
     formacao: "Bacharel em Sistema de Informação",
     localizacao: "Marília, SP ",
     interesses: ["Backend", "Full Stack"],
-    objetivo: Evoluir constantemente, busco criar soluções escaláveis otimizando performance e reduzindo custos,
+    objetivo: `Evoluir constantemente, busco criar soluções escaláveis otimizando performance e reduzindo custos,
         sempre aprendendo e aplicando as melhores práticas`,
     hobbies: ["Estudar novas tecnologias", "games", "Passear com a família"]
 };
