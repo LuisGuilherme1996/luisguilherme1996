@@ -105,6 +105,6 @@ const luisGuilherme = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**Desenvolvido com 💙 por Luis Guilherme Castro**
+**Desenvolvido por Luis Guilherme Castro de Melo**
 
 </div>
